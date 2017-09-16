@@ -12,6 +12,17 @@
 
   - show a list
 
+  - need a model
+  - need a Controller
+  - should a generate a resource
+
+  Does it impact the DB?
+  Does it impact my URLS?
+
+  # Step 3: Add Items to a List
+
+  # Step Whatever: Fix down arrow on Make a List Form
+
 I want people to be able to create lists. Then they should be able to add items to those lists. They should be able to navigate to many lists and see each others lists items.
 
 lists
